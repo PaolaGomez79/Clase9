@@ -1,0 +1,85 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    color:  #3C2313;
+    
+}
+
+.margenalto
+{
+    font-size: 10px;
+    background-color: #222222;
+    color: #F3F3F3;
+}
+
+.margenbajo
+{
+    background-color: #F0A83E;
+}
+
+#banner
+{
+    background-image: url(../img/petshop.jpg);
+    background-size: cover;
+    height: 768px;
+    width: 1366px;
+    text-align: center;
+}
+
+.titulo
+{
+    font-size: 30px;
+    background-color: white;
+}
+
+.centrado
+{
+    text-transform: uppercase;
+    color: white;
+    background-color: #F0A83E;
+    position: absolute;
+    left: 47%;
+}
+
+.prueba
+{
+    color: #666666;
+}
+    
+.fas fa-paw
+{
+    color: white;
+}
+
+.fontwhite
+{
+    color: white;
+}
+
+.costo{
+    color:#F0A83E;
+    ;
+}
+footer
+{
+    background-color: #3C2313;
+}
+
+.fotlinpri
+{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.fotlinseg
+{
+    font-size: 10px;
+    color: #8A8787;
+}
+
+.derecho
+{
+    background-color: #222222;
+    text-align: center;
+    color: white;
+}
